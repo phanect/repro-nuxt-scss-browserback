@@ -4,6 +4,8 @@
   </div>
 </template>
 
-<style lang="scss" scoped>
-@use "~/assets/styles/vars.scss" as vars;
+<style scoped>
+a {
+  color: #ee0000;
+}
 </style>
